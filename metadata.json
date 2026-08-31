@@ -1,0 +1,6 @@
+{
+  "name": "RLG to NFA Converter",
+  "description": "Interactive Right-Linear Grammar to Finite Automaton (NFA) converter with visual graph, step-by-step bilingual voice tutor, transition table, and NFA string simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
